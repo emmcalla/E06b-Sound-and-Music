@@ -1,0 +1,15 @@
+[remap]
+
+importer="ogg_vorbis"
+type="AudioStreamOGGVorbis"
+path="res://.import/Eight Notes.ogg-09c2d64a6c6dc8f258373b39f6f2964b.oggstr"
+
+[deps]
+
+source_file="res://Assets/Eight Notes.ogg"
+dest_files=[ "res://.import/Eight Notes.ogg-09c2d64a6c6dc8f258373b39f6f2964b.oggstr" ]
+
+[params]
+
+loop=true
+loop_offset=0
